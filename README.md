@@ -21,4 +21,4 @@
 * the Data consists of 8 columns and 1000 rows.
 
 ### 2.1 Import Data and Required Packages
-#### *mporting Pandas,Numpy,Matplotlib,Seaborn, and Warning Library
+#### Importing Pandas,Numpy,Matplotlib,Seaborn, and Warning Library
